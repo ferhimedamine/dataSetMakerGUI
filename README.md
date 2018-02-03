@@ -9,6 +9,6 @@ def buildDataSet(images, labels):
 press 0-9 to write labels, n for next image, b for back one image and q for quit.
 
 etc:
-    i = np.zeros([3,50,50])
-    l = np.zeros([3])
-    buildDataset(i,l)
+i = np.zeros([3,50,50])
+l = np.zeros([3])
+buildDataset(i,l)
